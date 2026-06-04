@@ -75,4 +75,4 @@ streamlit run app.py
 - 리스크 스코어 및 애널리스트 컨센서스를 통해 투자의 안전성을 교차 검증합니다.
 
 ## 👨‍💻 Author
-김형준 (Kim Hyeong-jun) Youngnam University
+김형준 (Kim Hyeong-jun)
