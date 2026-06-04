@@ -1,7 +1,7 @@
 2026 - 1 OSS Project
 
 <br>
-![[LOGO](./images/ainvest-logo.svg)
+![LOGO](./images/ainvest-logo.svg)
 <div align="center">
   <h1>📈 AInvest : AI + Invest</h1>
   <p><b>Advanced Stock Swing Trading Dashboard with AI Signals</b></p>
