@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <defs>
+    <!-- 상승 트렌드를 상징하는 그라데이션 -->
+    <linearGradient id="trendGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00F2FE;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#4FACFE;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- 다크 테마 배경 -->
+  <rect width="100%" height="100%" fill="#0E1117" rx="15"/>
+  
+  <!-- 주식 차트 형상의 'A' 심볼 -->
+  <path d="M 40 90 L 65 35 L 85 70 L 105 45 L 125 80" fill="none" stroke="url(#trendGrad)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- 상승 화살표 포인트 -->
+  <polygon points="112,30 135,28 132,50" fill="#4FACFE"/>
+  <circle cx="65" cy="35" r="5" fill="#00F2FE"/>
+  
+  <!-- 텍스트 로고 -->
+  <text x="160" y="80" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="52" font-weight="900" letter-spacing="-1" fill="#FFFFFF">
+    A<tspan fill="#4FACFE">Invest</tspan>
+  </text>
+  <text x="165" y="100" font-family="'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" fill="#888888">
+    AI-Powered Swing Trading
+  </text>
+</svg>
