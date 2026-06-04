@@ -1,9 +1,8 @@
 2026 - 1 OSS Project
 
-<br>
-![LOGO](./images/ainvest-logo.svg)
-<div align="center">
-  <h1>📈 AInvest : AI + Invest</h1>
+<img src="./images/ainvest-logo.svg" alt="AInvest Logo" width="400">
+
+# 📈 AInvest : AI + Invest
   <p><b>Advanced Stock Swing Trading Dashboard with AI Signals</b></p>
   
   [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)]()
