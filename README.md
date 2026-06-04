@@ -1,5 +1,7 @@
-# AInvest
-# 2026 - 1 OSS Project
+2026 - 1 OSS Project
+
+<br>
+
 <div align="center">
   <h1>📈 AInvest : AI + Invest</h1>
   <p><b>Advanced Stock Swing Trading Dashboard with AI Signals</b></p>
