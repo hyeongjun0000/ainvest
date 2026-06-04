@@ -1,12 +1,8 @@
 # AInvest
 # 2026 - 1 OSS Project
-
-📈 AInvest : AI + Invest
-- Advanced Stock Swing Trading Dashboard with AI Signals
--
 <div align="center">
-  <h1>📈 AInvest</h1>
-  <p><b>AI 기반 스윙 트레이딩 투자 보조 대시보드 (AI-Powered Swing Trading Assistant)</b></p>
+  <h1>📈 AInvest : AI + Invest</h1>
+  <p><b>Advanced Stock Swing Trading Dashboard with AI Signals</b></p>
   
   [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)]()
   [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)]()
